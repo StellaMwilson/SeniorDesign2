@@ -82,15 +82,14 @@ class _CustomDataState extends State<CustomData> {
                     top: 20, left: 40, right: 70, bottom: 20),
                 child:
                 print(ref2.key),
-              ),
-              //add connection to microcontroller
+              ), //alert
               Container(
                 color: Colors.yellowAccent[100],
                 padding: EdgeInsets.only(
                     top: 20, left: 44, right: 70, bottom: 20),
                 child:
                 print(ref.key),
-              ),
+              ), //battery
             ],
           ),
           Row(
