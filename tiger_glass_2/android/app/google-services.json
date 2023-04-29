@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158494796703",
+    "firebase_url": "https://tiger-glass-default-rtdb.firebaseio.com",
+    "project_id": "tiger-glass",
+    "storage_bucket": "tiger-glass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158494796703:android:c20fea8bc665332c702baa",
+        "android_client_info": {
+          "package_name": "com.lsu.tiger_glass_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158494796703-sfk053cok64mosbfrecfrbv3vscmq8bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-95TH8owRqUbpAxMfILZJtW7DKZzuS_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158494796703-sfk053cok64mosbfrecfrbv3vscmq8bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
